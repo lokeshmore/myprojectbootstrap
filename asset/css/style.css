@@ -1,0 +1,22 @@
+/*css*/
+
+.card{
+	
+	text-align:center;
+	transition-property:transform;
+	transition-duration:1s;
+	transition-delay:0s;
+}
+.card:hover{
+	transform:scale(1.1);
+}
+.card a:hover{
+	color:red;
+	background-color:green
+}
+.row .bi:hover{
+	color:#ff523b;
+}
+/*.rows{
+	position:fixed;
+}*/
